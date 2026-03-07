@@ -1,4 +1,4 @@
-# NeuroBase
+# appdroit
 # AI App Generator Platform Blueprint
 
 ## Goal
@@ -1017,7 +1017,7 @@ Start with these exact deliverables:
 6. **BullMQ queue + worker stub**
 
 That is the correct Milestone 1 foundation for the entire system.
-# NeuroBase
-# NeuroBase26
-# NeuroBase26
-# NeuroBase26
+# appdroit
+# appdroit26
+# appdroit26
+# appdroit26
